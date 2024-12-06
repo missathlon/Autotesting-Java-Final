@@ -1,0 +1,20 @@
+2680 [main] INFO  task3.BookingServiceTest - Запущен тест проверки со свободным слотом времени от 2024-12-20T05:00 до 2024-12-26T14:00 для записи в СУБД 
+2687 [main] DEBUG task3.BookingServiceTest - Формирование мока для метода book()
+2827 [main] INFO  task3.BookingServiceTest - Запущен тест проверки со занятым слотом времени от 2024-12-20T05:00 до 2024-12-26T14:00 для записи в СУБД 
+2828 [main] DEBUG task3.BookingServiceTest - Формирование мока для метода book()
+2846 [main] INFO  task3.BookingServiceTest - Проверка что произошел вызов метода с замокированными параметрами
+2864 [main] INFO  task3.BookingServiceTest - Проверка завершена
+1989 [main] INFO  task3.BookingServiceTest - Запущен тест проверки со свободным слотом времени от 2024-12-20T05:00 до 2024-12-26T14:00 для записи в СУБД 
+1993 [main] DEBUG task3.BookingServiceTest - Формирование мока для метода book()
+2069 [main] INFO  task3.BookingServiceTest - Запущен тест проверки со занятым слотом времени от 2024-12-20T05:00 до 2024-12-26T14:00 для записи в СУБД 
+2069 [main] DEBUG task3.BookingServiceTest - Формирование мока для метода book()
+2083 [main] INFO  task3.BookingServiceTest - Проверка что произошел вызов метода с замокированными параметрами
+2098 [main] INFO  task3.BookingServiceTest - Проверка завершена
+1361 [main] INFO  task3.BookingServiceTest - Запущен тест проверки со свободным слотом времени от 2024-12-20T05:00 до 2024-12-26T14:00 для записи в СУБД 
+1367 [main] DEBUG task3.BookingServiceTest - Формирование мока для метода book()
+1418 [main] INFO  task3.BookingServiceTest - Проверка что произошел вызов метода с замокированными параметрами
+1429 [main] INFO  task3.BookingServiceTest - Проверка завершена
+1455 [main] INFO  task3.BookingServiceTest - Запущен тест проверки со занятым слотом времени от 2024-12-20T05:00 до 2024-12-26T14:00 для записи в СУБД 
+1455 [main] DEBUG task3.BookingServiceTest - Формирование мока для метода book()
+1469 [main] INFO  task3.BookingServiceTest - Проверка что произошел вызов метода с замокированными параметрами
+1472 [main] INFO  task3.BookingServiceTest - Проверка завершена
